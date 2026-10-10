@@ -3,7 +3,7 @@ from datetime import datetime
 import uuid
 
 st.set_page_config(
-    page_title="cartivo | Online Store",
+    page_title="ShopEase| Online Store",
     page_icon="🛍️",
     layout="wide",
     initial_sidebar_state="expanded",
